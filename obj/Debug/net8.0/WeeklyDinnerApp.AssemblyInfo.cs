@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WeeklyDinnerApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e76eb96f2363c69fe168c5a8ba518ed527c6c931")]
 [assembly: System.Reflection.AssemblyProductAttribute("WeeklyDinnerApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WeeklyDinnerApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
